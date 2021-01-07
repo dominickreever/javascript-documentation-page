@@ -1,0 +1,38 @@
+#navbar {
+    position: fixed;
+    left: 0;
+    top: 0;
+    display: grid;
+    grid-template-rows: repeat(auto);
+    width: 17%;
+    height: 100%;
+    background-color: lightgray;
+    font-size: 1vw;
+    padding: 5px;
+}
+  
+.nav-link {
+    text-decoration: none;
+    color: 	black;
+    
+}
+  
+#JS_Documentation {
+    font-size: 2vw;
+}
+  
+.main-section {
+   float: right;
+    width: 80%;
+    font-family: Arial;
+}
+  
+header {
+    font-size: 25px;
+    font-family: Arial;
+}
+  
+code {
+    background-color: lightgray;
+    padding: 15px;
+}
